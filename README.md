@@ -1,1 +1,3 @@
 # web-scrapping-console
+
+simple web scrapping using nodejs and some libraries axios cherrio etc ... 
